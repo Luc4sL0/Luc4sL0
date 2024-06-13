@@ -1,0 +1,4 @@
+- 👋 Olá! Meu nome é Lucas Lopes Baroni;
+- 👀 Eu tenho interesse no desenvolvimento de softwares que envolvam: computação gráfica e inteligência artificial; 
+- 🌱 Estou aprendendo Java;
+- 📫 Me contate pelo email: lucaslopesbaroni@gmail.com

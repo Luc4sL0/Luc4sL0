@@ -1,6 +1,6 @@
 - 👋 Hi! I'm Lucas Lopes Baroni;
 - 👀 I'm interested on software development that involves: graphical computation and artificial intelligence; 
-- 🌱 I'm learning React;
+- 🌱 I'm learning Flutter;
 - 📫 Contact me with this email: lucaslopesbaroni@gmail.com
 
 <h3 align="left">Languages and tools:</h3>
